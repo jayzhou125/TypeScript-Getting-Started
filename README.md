@@ -11,4 +11,4 @@
 
 ### My Own notes from the course:
 
-- This is my personal notes for learning TypeScript from the course, feel free to check it out! 
+- This is my [*personal notes*](https://github.com/jayzhou125/TypeScript-Getting-Started/tree/main/Personal%20Notes) for learning TypeScript from the course, feel free to check it out! 
