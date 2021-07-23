@@ -1,6 +1,6 @@
 # TypeScript-Getting-Started
 
-## Attention!!: This repo was meant for my own learning purpose. If you want to practice on your own, I recommend you go to the original repo [here](https://github.com/bricewilson/TypeScript-Getting-Started/).
+### Attention!!: This repo was meant for my own learning purpose. If you want to practice on your own, I recommend you go to the original repo [here](https://github.com/bricewilson/TypeScript-Getting-Started/).
 
 ---
 
