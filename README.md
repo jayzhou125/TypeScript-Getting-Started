@@ -11,4 +11,4 @@
 
 ### My Own notes from the course:
 
-- This is my personal notes from the course: click here to see.
+- This is my personal notes for learning TypeScript from the course, feel free to check it out! 
