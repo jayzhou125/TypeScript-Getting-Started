@@ -15,7 +15,7 @@
 
 ### Screenshots of the Application:
 - StartPage
-![](./app/Multimath1.png)
+![startpage](./app/Multimath1.png)
 
 - GameResult
-![](./app/Multimath2.png)
+![gameresult](./app/Multimath2.png)
