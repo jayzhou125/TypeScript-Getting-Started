@@ -1,10 +1,16 @@
 # TypeScript-Getting-Started
 
-This is the official repository for my Pluralsight course titled [*TypeScript: Getting Started*](https://app.pluralsight.com/library/courses/typescript-getting-started/table-of-contents). 
-The *main* branch contains code as it 
-exists at the start of the course. There are separate branches named after the modules in the course that contain the code as it 
-exists at the end of that module.
+## Attention!!: This repo was meant for my own learning purpose.
 
-I will update this repo below with any problems or small issues reported between updates to the actual course.
+## If you want to practice on your own, I recommend you go to the original repo [here](https://github.com/bricewilson/TypeScript-Getting-Started/).
 
-Thanks for watching and good luck on your TypeScript projects!
+---
+
+### Notes about this repo:
+
+- This is the repository for Pluralsight course titled *[TypeScript: Getting Started](https://app.pluralsight.com/library/courses/typescript-getting-started/table-of-contents)*. The Course is taught by [Brice Wilson](https://github.com/bricewilson).
+- The *`main`* branch contains code for the practice MultiMath application from the course.
+
+### My Own notes from the course:
+
+- This is my personal notes from the course: click here to see.
