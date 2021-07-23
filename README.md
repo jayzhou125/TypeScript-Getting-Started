@@ -12,3 +12,10 @@
 ### My Own notes from the course:
 
 - This is my [*personal notes*](https://github.com/jayzhou125/TypeScript-Getting-Started/tree/main/Personal%20Notes) for learning TypeScript from the course, feel free to check it out! 
+
+### Screenshots of the Application:
+- StartPage
+![](./app/Multimath1.png)
+
+- GameResult
+![](./app/Multimath2.png)
