@@ -16,8 +16,8 @@
 ### Screenshots of the Application:
 - StartPage
 
-    ![startpage](Multimath1.png)
+    ![startpage](MultiMath1.png)
 
 - GameResult
     
-    ![gameresult](Multimath2.png)
+    ![gameresult](MultiMath3.png)
