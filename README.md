@@ -9,7 +9,7 @@
 - This is the repository for Pluralsight course titled *[TypeScript: Getting Started](https://app.pluralsight.com/library/courses/typescript-getting-started/table-of-contents)*. The Course is taught by [Brice Wilson](https://github.com/bricewilson).
 - The *`main`* branch contains code for the practice MultiMath application from the course.
 
-### My Own notes from the course:
+### My own notes from the course:
 
 - This is my [*personal notes*](https://github.com/jayzhou125/TypeScript-Getting-Started/tree/main/Personal%20Notes) for learning TypeScript from the course, feel free to check it out! 
 
