@@ -16,8 +16,8 @@
 ### Screenshots of the Application:
 - StartPage
 
-    ![startpage](./PersonalNotes/screenshots/Multimath1.png)
+    ![startpage](Multimath1.png)
 
 - GameResult
     
-    ![gameresult](./PersonalNotes/screenshots/Multimath2.png)
+    ![gameresult](Multimath2.png)
